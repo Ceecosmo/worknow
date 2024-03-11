@@ -25,7 +25,7 @@ function App() {
       
       
      
-      <Router basename="/portfolio">
+      <Router basename="/worknow">
       <Routes>
      
       <Route exact path='/' element={<HOME/>}/>
